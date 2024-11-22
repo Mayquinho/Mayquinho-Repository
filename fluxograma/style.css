@@ -1,0 +1,16 @@
+body {
+    background-color: #a9a9a9;
+    color: black;
+    font-family: "Merriweather", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 680px;
+    margin: 0;
+}
+
+button {
+    background-color: #f5f5f5;
+    color: black;
+    font-family: "Merriweather", serif;
+}
